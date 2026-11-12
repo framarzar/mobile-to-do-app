@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Todos</string>
+    <string name="todo_list_title">Todos</string>
+    <string name="todo_list_empty">No todos yet</string>
+</resources>
